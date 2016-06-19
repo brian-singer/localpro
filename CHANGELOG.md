@@ -4,5 +4,6 @@
 
 ### Bug Fixes
 
-* **LocalPro:** add marker icons
-* **Registration:** always save email to lower case
+* **map:** add marker icons
+* **registration:** always save email to lower case
+* **security:** web token validation activated
