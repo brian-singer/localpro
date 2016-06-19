@@ -4,6 +4,8 @@
 
 ### Bug Fixes
 
+#### Closed 19.06.2019
+
 * **map:** add marker icons
 * **registration:** always save email to lower case
 * **security:** web token validation activated
