@@ -1,4 +1,4 @@
-# localpro web/ios/android issues
+# LocalPro Javascript Distribution Hub
 
 
 ### LocalPro Public
