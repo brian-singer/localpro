@@ -5,7 +5,9 @@
 
 * **angular2:** Bump RC2
 * **server authorization:** user security enhancements
-* **maps:** google maps upgrade | leave event
+* **maps:** google maps upgrade  
+* **mapUI:** leave event
+
 ### Bugfixes
 
 * **backend:** minor bugfixes
