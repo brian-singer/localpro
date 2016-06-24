@@ -7,7 +7,7 @@
 * **server authorization:** user security enhancements
 * **maps:** google maps upgrade 0.12.0
 * **mapUI:** leave event
-* **mapUI:** add search barf
+* **mapUI:** add search bar
 
 ### Bugfixes
 
