@@ -14,7 +14,7 @@
 * **backend:** minor bugfixes
 * **UI form bugfixes:** minor bugfixes
 
-#### OPEN until 30.06.2016
+#### CLOSED 30.06.2016
 
 <a name="0.12.0"></a>
 # [0.12.0 BETA]
